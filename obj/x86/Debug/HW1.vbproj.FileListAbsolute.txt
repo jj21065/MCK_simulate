@@ -1,0 +1,30 @@
+C:\Users\Jacob\AppData\Local\Temporary Projects\HW1\bin\Debug\HW1.exe
+C:\Users\Jacob\AppData\Local\Temporary Projects\HW1\bin\Debug\HW1.pdb
+C:\Users\Jacob\AppData\Local\Temporary Projects\HW1\bin\Debug\HW1.xml
+C:\Users\Jacob\AppData\Local\Temporary Projects\HW1\obj\x86\Debug\HW1.Form1.resources
+C:\Users\Jacob\AppData\Local\Temporary Projects\HW1\obj\x86\Debug\HW1.Resources.resources
+C:\Users\Jacob\AppData\Local\Temporary Projects\HW1\obj\x86\Debug\HW1.vbproj.GenerateResource.Cache
+C:\Users\Jacob\AppData\Local\Temporary Projects\HW1\obj\x86\Debug\HW1.exe
+C:\Users\Jacob\AppData\Local\Temporary Projects\HW1\obj\x86\Debug\HW1.xml
+C:\Users\Jacob\AppData\Local\Temporary Projects\HW1\obj\x86\Debug\HW1.pdb
+D:\德祐\GAME PROJECT\HW1\HW1\obj\x86\Debug\HW1.exe
+D:\德祐\GAME PROJECT\HW1\HW1\obj\x86\Debug\HW1.xml
+D:\德祐\GAME PROJECT\HW1\HW1\obj\x86\Debug\HW1.pdb
+D:\德祐\GAME PROJECT\HW1\HW1\bin\Debug\HW1.exe
+D:\德祐\GAME PROJECT\HW1\HW1\bin\Debug\HW1.pdb
+D:\德祐\GAME PROJECT\HW1\HW1\bin\Debug\HW1.xml
+D:\德祐\GAME PROJECT\HW1\HW1\obj\x86\Debug\HW1.Form1.resources
+D:\德祐\GAME PROJECT\HW1\HW1\obj\x86\Debug\HW1.Resources.resources
+D:\德祐\GAME PROJECT\HW1\HW1\obj\x86\Debug\HW1.vbproj.GenerateResource.Cache
+D:\德祐\GAME PROJECT\401420077_林德祐_HW1\HW1\obj\x86\Debug\HW1.exe
+D:\德祐\GAME PROJECT\401420077_林德祐_HW1\HW1\obj\x86\Debug\HW1.xml
+D:\德祐\GAME PROJECT\401420077_林德祐_HW1\HW1\obj\x86\Debug\HW1.pdb
+D:\德祐\機器動力學\401420077_林德祐_HW1\HW1\obj\x86\Debug\HW1.exe
+D:\德祐\機器動力學\401420077_林德祐_HW1\HW1\obj\x86\Debug\HW1.xml
+D:\德祐\機器動力學\401420077_林德祐_HW1\HW1\obj\x86\Debug\HW1.pdb
+D:\德祐\機器動力學\401420077_林德祐_HW1\HW1\bin\Debug\HW1.exe
+D:\德祐\機器動力學\401420077_林德祐_HW1\HW1\bin\Debug\HW1.pdb
+D:\德祐\機器動力學\401420077_林德祐_HW1\HW1\bin\Debug\HW1.xml
+D:\德祐\機器動力學\401420077_林德祐_HW1\HW1\obj\x86\Debug\HW1.Form1.resources
+D:\德祐\機器動力學\401420077_林德祐_HW1\HW1\obj\x86\Debug\HW1.Resources.resources
+D:\德祐\機器動力學\401420077_林德祐_HW1\HW1\obj\x86\Debug\HW1.vbproj.GenerateResource.Cache
